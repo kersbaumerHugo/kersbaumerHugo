@@ -1,4 +1,4 @@
-#\(EN - US\) Hello, I’m Hugo Kersbaumer Knupp 👋
+# \(EN - US\) Hello, I’m Hugo Kersbaumer Knupp 👋
 ## About me
 I am a Mechanical Engineer graduated from UFRJ and a Technician in Electromechanics from IFF Macaé, currently pursuing a specialization in Computer Engineering. I have solid experience in software development, process automation, predictive analytics, and machine learning, especially applied to the oil & gas and renewable energy sectors.
 Currently, I work as a Planning Engineer at Infotec Brasil and previously served as a Project Assistant at TechnipFMC, where I developed solutions in Python, VBA, system integration (SAP, SharePoint, Azure DevOps), and process improvements. I also participated in projects forecasting photovoltaic energy generation using machine learning models.
@@ -22,7 +22,7 @@ Currently, I work as a Planning Engineer at Infotec Brasil and previously served
 ---
 > “No one is so great that they cannot learn, nor so small that they cannot teach.” – Aesop
 -----------------------------------------------------------------------------------------------------
-#\(PT - BR\) Olá, eu sou Hugo Kersbaumer Knupp 👋
+# \(PT - BR\) Olá, eu sou Hugo Kersbaumer Knupp 👋
 ## Sobre mim
 Sou Engenheiro Mecânico formado pela UFRJ e Técnico em Eletromecânica pelo IFF Macaé, com especialização em Engenharia de Computação em andamento. Tenho experiência sólida em desenvolvimento de software, automação de processos, análise preditiva e aprendizado de máquina, especialmente aplicado ao setor de óleo e gás e energia renovável.
 Atualmente, trabalho como Engenheiro de Planejamento na Infotec Brasil e já atuei como Assistente de Projetos na TechnipFMC, onde desenvolvi soluções em Python, VBA, integração de sistemas (SAP, SharePoint, Azure DevOps) e melhorias de processos. Também participei de projetos de previsão de geração de energia fotovoltaica utilizando modelos de aprendizado de máquina.
