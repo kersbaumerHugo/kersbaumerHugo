@@ -3,10 +3,10 @@
 I am a Mechanical Engineer graduated from UFRJ and a Technician in Electromechanics from IFF Macaé, also currently a specialist in Computer Engineering. I have solid experience in software development, process automation, predictive analytics, and machine learning, especially applied to the oil & gas and renewable energy sectors.
 Currently, I work as a Planning Engineer at Infotec Brasil and previously served as a Project Assistant at TechnipFMC, where I developed solutions in Python, VBA, system integration (SAP, SharePoint, Azure DevOps), and process improvements. I also participated in projects forecasting photovoltaic energy generation using machine learning models.
 ## Technical skills
-- Languages: Python (advanced), VBA, SQL (intermediary)
+- Languages: Python, VBA, SQL
 - Tools and technologies: Pandas, Power BI, Azure Cloud, GitHub, SharePoint, SAP
 - Machine learning models: Decision Trees, Random Forests, Neural Networks
-- Software development: Process automation, dashboard creation, data analysis
+- Software development: Process automation, dashboard creation (BI/MatplotLib), data analysis
 - Soft skills: Proactivity, creativity, teamwork, eagerness to learn
 ## Highlighted projects
 - **Photovoltaic Energy Generation Forecasting in Brazil**  
